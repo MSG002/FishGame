@@ -14,9 +14,4 @@ function AudioManager:init(  )
 	print("AudioManager:init succeed ...")
 end
 
-function AudioManager:(  )
-	cc.AudioEngine
-end
-
-
 return AudioManager

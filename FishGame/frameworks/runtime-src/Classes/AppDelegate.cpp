@@ -42,7 +42,6 @@ bool AppDelegate::applicationDidFinishLaunching()
 {
     // set default FPS
     Director::getInstance()->setAnimationInterval(1.0 / 60.0f);
-   
     // register lua module
     auto engine = LuaEngine::getInstance();
     ScriptEngineManager::getInstance()->setScriptEngine(engine);
