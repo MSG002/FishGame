@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3E3540B5-E151-433E-87FC-2A3926159578</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FishGame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2B8F52A901FBD42EE21A496C34815721C9CFBFAE</key>
+		<string>https://github.com/MSG002/FishGame.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FishGame/frameworks/runtime-src/proj.ios_mac/FishGame.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2B8F52A901FBD42EE21A496C34815721C9CFBFAE</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MSG002/FishGame.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2B8F52A901FBD42EE21A496C34815721C9CFBFAE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2B8F52A901FBD42EE21A496C34815721C9CFBFAE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FishGame</string>
+		</dict>
+	</array>
+</dict>
+</plist>
